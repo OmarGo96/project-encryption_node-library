@@ -1,5 +1,5 @@
 {
-  "name": "encryption-aes-128-cbc",
+  "name": "@omargo96/encryption-aes-128-cbc",
   "version": "1.0.0",
   "description": "Librería encargada de gestionar el procesos de encriptación",
   "main": "index.js",
