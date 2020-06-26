@@ -1,0 +1,34 @@
+{
+  "name": "encryption-aes-128-cbc",
+  "version": "1.0.0",
+  "description": "Librería encargada de gestionar el procesos de encriptación",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarGo96/project-encryption_node-library.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt",
+    "cipher",
+    "decipher",
+    "AES",
+    "CBC",
+    "AES-128-CBC"
+  ],
+  "author": "Omar Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmarGo96/project-encryption_node-library/issues"
+  },
+  "homepage": "https://github.com/OmarGo96/project-encryption_node-library#readme",
+  "devDependencies": {
+    "tape": "^5.0.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
