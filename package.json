@@ -19,10 +19,7 @@
     "CBC",
     "AES-128-CBC"
   ],
-  "author": {
-    "name": "Omar Gonzalez",
-    "email": "omargonzaleez9911@gmail.com"
-  },
+  "author": "Omar Gonzalez <omargonzaleez9911@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/OmarGo96/project-encryption_node-library/issues"
@@ -33,5 +30,9 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {}
 }
